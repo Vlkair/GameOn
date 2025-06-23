@@ -1,0 +1,4 @@
+[2025-06-23 12:27:23] Iniciando validación de RUC: 10761976651 | Context: {"api":"factiliza"}
+[2025-06-23 12:27:25] Validación completada para RUC: 10761976651 | Context: {"success":true,"api":"factiliza"}
+[2025-06-23 12:27:37] Iniciando validación de RUC: 20601907446 | Context: {"api":"factiliza"}
+[2025-06-23 12:27:39] Validación completada para RUC: 20601907446 | Context: {"success":true,"api":"factiliza"}
